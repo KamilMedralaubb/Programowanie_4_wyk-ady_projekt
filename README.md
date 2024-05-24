@@ -1,1 +1,1 @@
-# ACalc
+# Kalkulator
